@@ -14,4 +14,4 @@ A simple static website hosted with GitHub Pages to keep track of my daily thoug
 - Fully static site — no backend required.
 
 ## View on GitHub Pages
-https://github.com/GeorginaMD/mortgage-calculator.git
+https://github.com/GeorginaMD/the-process-logs.git
