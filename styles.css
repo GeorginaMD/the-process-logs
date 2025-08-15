@@ -13,7 +13,7 @@
 
 body {
     background-image: url(/background.png);
-    background-size: cover;
+    /* background-size: cover; */
     font-family: "Jura", sans-serif;
     font-weight: 200;
 }
@@ -36,4 +36,5 @@ h1 {
 footer {
     color: #84172C;
     text-align: end;
+    margin-right: 0.5rem;
 }
