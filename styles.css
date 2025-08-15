@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Jura";
+  src: url("fonts/Jura-VariableFont_wght.ttf") format("truetype-variations");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
 * { 
     margin: 0; 
     padding: 0; 
@@ -6,9 +13,27 @@
 
 body {
     background-image: url(/background.png);
-    background-size: 100%;
+    background-size: cover;
+    font-family: "Jura", sans-serif;
+    font-weight: 200;
 }
 
 h1 {
     text-align: center;
+    margin: 2rem 1rem;
+    color: #a99384;
+}
+
+#log-container {
+    /* border: 1px solid #8f4e5b;
+    border-radius: 1rem; */
+    color: #84172C;
+    margin: 5rem;
+    text-align: center;
+    
+}
+
+footer {
+    color: #84172C;
+    text-align: end;
 }
